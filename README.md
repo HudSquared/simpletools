@@ -1,2 +1,2 @@
-# simpletools
-small tools that can be utilized to speed up small tasks 
+# stuff i feel like making
+stuff i feel like making
